@@ -1,0 +1,34 @@
+
+html{
+    font-size:30px;
+}
+
+#div1{
+    height:4rem;      /*rem is relative to root & have  pixel size=1rem*/
+   /* 200px; */        /*pixel height*/
+   /* 100vh; */        /*viewport height*/
+    width:6rem;       /*rem width pixel size=1rem*/
+    /* 200px; */       /*pixel width*/
+    /* 100vw; */       /*viewport width*/    
+    background-color:orangered;         /*see hex code and rgb values on colorpiker.com and browser inspect option*/
+/*  background-color:#ff0000;             we can add color through hex values */
+/*  background-color:rgb(255,0,0);        we can add color through rgb values */
+/*  background-color:rgba(255,0,0,1);     we can add color through rgb + alpha values */
+/*  background-color:hsl();               we can add color through hsl values on inspect*/
+/*  background-color:hsla();               we can add color through hsla values on inspect */       
+/*  border-width:4px;
+    border-style: solid;
+    border-color: rgb(17, 17, 17); */
+    border: 4px solid rgb(17, 17, 17);
+    border-radius: 4px;   /*border radius rounded border */
+
+}
+#div2{
+    height:50%;
+    width:50%;
+    background-color: cyan;
+}
+#sample-para{
+   /* border: 2px solid rgb(235, 31, 31); */
+   border-left: 4px solid red;
+}

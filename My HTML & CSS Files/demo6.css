@@ -1,0 +1,29 @@
+html{
+    font-size:30px;
+}
+#outer-div1{
+    height: 200px;
+    width: 200px;
+    background-color:red;
+/*  margin: 4px 10px 20px 30px;  /* margin basically space around in element
+    margin: 4px 10px 20px;
+    margin: 4px 10px;
+    margin-top:4px; */
+    margin-bottom: 10px;
+    padding: 20px 10px 5px 25px;  
+}
+                  /*  Note: vertical margins is can not add up they are collaps but horizontal margins are add up.*/
+                  /* padding decides space within an elemennt.*/
+#inner-div1{
+    height: 50%;
+    width: 50%;
+    background-color: cyan;
+
+}
+#outer-div2{
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+    margin-top: 10px; 
+}
+                 

@@ -1,0 +1,36 @@
+p{                 /*External css in separate css file*/
+    color:rgb(10, 10, 12);
+    font-size:20px;
+    /*font-family:sans-serif;*/
+} 
+h1{
+    font-size:30px;
+    /*font-family:sans-serif;*/
+}
+h1,p{
+    font-family:sans-serif;
+}
+h4{      
+    text-transform: lowercase;
+}
+.uppercase {
+    text-transform:uppercase;
+}
+.cursive{
+    font-family:cursive;
+}       
+#blog-title:hover{
+    color:rgb(247, 150, 6);
+}              
+
+/*li h4{        text-transform:uppercase;
+    font-family:cursive;
+} /*This is another way called as "nesting" here don't need class using this we can do this type also*/
+
+#site-desc , p{
+    color:red;
+}
+
+#blog-desc{
+color:#1fe240;
+}

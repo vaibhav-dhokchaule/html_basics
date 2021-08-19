@@ -1,0 +1,20 @@
+#div1{
+    background-color:red;
+    height:200px;
+    width:200px;
+    
+
+}
+#div2{
+    background-color:cyan;
+    height:200px;
+    width:200px;
+    margin-left: -2px;
+
+}
+span{
+    display: block;
+}
+div{
+    display: inline-block;
+}

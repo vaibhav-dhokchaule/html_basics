@@ -1,0 +1,20 @@
+#sample-para{
+    font: size 30px;
+    color: blue;
+    font-weight:200;   /* or we can write bold except 200*/
+    text-align:justify;
+    line-height: 40px;
+    word-spacing: normal;
+    text-transform: capitalize;
+      
+}
+#sample-para1{
+    font: size 40px;
+    color: rgb(247, 7, 39);
+    font-weight: bold;   
+    text-align:justify;
+    line-height: 40px;
+    word-spacing: normal;
+    text-transform: capitalize;
+      
+}
